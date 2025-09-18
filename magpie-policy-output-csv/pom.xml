@@ -13,7 +13,7 @@
   <properties>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
-    <commons-csv.version>1.9.0</commons-csv.version>
+    <commons-csv.version>1.14.1</commons-csv.version>
   </properties>
 
   <dependencies>
