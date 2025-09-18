@@ -28,7 +28,7 @@
   <properties>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
-    <jackson.version>2.15.2</jackson.version>
+    <jackson.version>2.19.2</jackson.version>
     <testcontainer.version>1.19.7</testcontainer.version>
     <aws.sdk.version>2.25.13</aws.sdk.version>
     <sentry.version>6.3.0</sentry.version>
